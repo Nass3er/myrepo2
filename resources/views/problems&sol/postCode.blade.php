@@ -1,4 +1,4 @@
-
+{{--
 
 
 
@@ -10,7 +10,7 @@
         <svg aria-hidden="true" class="svg-icon iconArrowUpLg" width="36" height="36" viewBox="0 0 36 36"><path d="M2 25h32L18 9 2 25Z"></path></svg>
     </button><div id="--stacks-s-tooltip-6449edeu" class="s-popover s-popover__tooltip" role="tooltip">This question shows research effort; it is useful and clear<div class="s-popover--arrow"></div></div>
     <div class="js-vote-count flex--item d-flex fd-column ai-center fc-black-500 fs-title" itemprop="upvoteCount" data-value="0">
-         
+
     </div>
     <button class="js-vote-down-btn flex--item s-btn s-btn__unset c-pointer " data-controller="s-tooltip" data-s-tooltip-placement="right" aria-pressed="false" aria-label="Down vote" data-selected-classes="fc-theme-primary" data-unselected-classes="" aria-describedby="--stacks-s-tooltip-y6sb0sor">
         <svg aria-hidden="true" class="svg-icon iconArrowDownLg" width="36" height="36" viewBox="0 0 36 36"><path d="M2 11h32L18 27 2 11Z"></path></svg>
@@ -49,7 +49,7 @@ I may be overlooking a step.. thank you in advance!</p>
             <span class="hljs-attr">width</span>=<span class="hljs-string">"6"</span>
             <span class="hljs-attr">height</span>=<span class="hljs-string">"8"</span>
           &gt;</span>
-</code></pre>
+</code></pre>/
 <pre class="default s-code-block"><code class="hljs language-less"><span class="hljs-selector-class">.li-active</span> {
 <span class="hljs-variable">@include</span> desktop {
 <span class="hljs-attribute">border-top</span>: <span class="hljs-number">1px</span> solid red;
@@ -146,4 +146,4 @@ e.target.classList.add(<span class="hljs-string">"li-active"</span>);
         <a class="js-show-link comments-link dno" title="Expand to show all comments on this post" href="#" onclick="" role="button"></a>
     </div>
 </div>
-</div>
+</div> --}}
